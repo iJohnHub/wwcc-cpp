@@ -1,0 +1,29 @@
+=== WEEKLY PAYROLL EXPORT REPORT ===
+Department: Engineering
+----------------------------------------
+David Park           $2850.00
+Alice Chen           $2835.00
+----------------------------------------
+Subtotal             $5685.00
+
+Department: Sales
+----------------------------------------
+Frank Torres         $3003.75
+Bob Martinez         $1064.00
+----------------------------------------
+Subtotal             $4067.75
+
+Department: HR
+----------------------------------------
+Grace Kim            $1105.50
+Carol Singh          $1137.50
+----------------------------------------
+Subtotal             $2243.00
+
+Department: Operations
+----------------------------------------
+Henry Okafor         $2392.50
+Emma Wilson          $870.00
+----------------------------------------
+Subtotal             $3262.50
+
