@@ -1,0 +1,3 @@
+Player Name: kj
+Survival Status: 0
+Net Gold: 15
